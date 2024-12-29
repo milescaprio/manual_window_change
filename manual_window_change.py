@@ -54,7 +54,7 @@ def set_window_to(gear):
     for i, _ in enumerate(saved_windows): #Remove handle from other gears
         if i != gear:
             remove_all(saved_windows[i], handle)
-    print("Saved windows", saved_windows)
+    #print("Saved windows", saved_windows)
     
 # Main loop to read inputs
 
