@@ -2,7 +2,7 @@ import pygame
 import win32gui
 import win32com.client
 
-gear_buttons = [3, 1, 2, 0, 6, 7, 5]
+gear_buttons = [13, 12, 15, 14, 17, 16, 11]
 # Gear buttons ID's that the manual maps to the controller maps to
 # 1st 2nd 3456R
 
